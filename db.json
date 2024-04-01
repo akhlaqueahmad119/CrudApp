@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "userName": "Haroon123",
+      "password": "Haroon@123",
+      "address": "New Delhi",
+      "email": "haroon@gmail.com",
+      "mobile": "8898898897",
+      "userType": "Admin",
+      "country": "Bangladesh",
+      "city": "Panjab",
+      "id": 22
+    },
+    {
+      "userName": "Melissa",
+      "password": "casaafq",
+      "address": "BADHAI TOLA ROAD",
+      "email": "akhlaqueahmad119@gmail.com",
+      "mobile": "07987557295",
+      "userType": "Admin",
+      "country": "Bangladesh",
+      "city": "Haryana",
+      "id": 23
+    },
+    {
+      "userName": "John",
+      "password": "Akhlaque",
+      "address": "BADHAI TOLA ROAD",
+      "email": "akhlaqueahmad119@gmail.com",
+      "mobile": "07987557295",
+      "userType": "Admin",
+      "country": "Nepal",
+      "city": "Delhi",
+      "id": 27
+    },
+    {
+      "userName": "Adil",
+      "password": "Adil@123",
+      "address": "Delhi 110025",
+      "email": "adil@123",
+      "mobile": "917987557295",
+      "userType": "Admin",
+      "country": "India",
+      "city": "Panjab",
+      "id": 28
+    }
+  ]
+}
